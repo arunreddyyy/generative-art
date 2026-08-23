@@ -1,8 +1,9 @@
 :root {
     --bg: #0b0d12;
-    --int-a: #eae6da;
+    --ink-a: #eae6da;
     --ink-b: #8f97a3;
-    --accent: rgba(11, 13, 18, 0.55);
+    --accent:#c98a4b;
+    --panel-bg: rgba(11, 13, 18, 0.55);
     --panel-border: rgba(234, 230, 218, 0.14);
 
  }
