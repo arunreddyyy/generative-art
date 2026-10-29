@@ -26,7 +26,7 @@ Run Locally
 
 1. Clone the repository:
    
-   git clone
+   git clone https://github.com/arunreddyyy/generative-art.git
 
 2. Open the project folder in VS Code.
 
